@@ -95,7 +95,7 @@ def update_ip_tracer():
 
     try:
         # Simulate Git clone and installation commands
-        subprocess.run(["git", "clone", "https://github.com/rajkumardusad/IP-Tracer.git", "~/IP-Tracer"], check=True)
+        subprocess.run(["git", "clone", "https://github.com/YassineDouadi/IP_Tracer.git", "~/IP-Tracer"], check=True)
         subprocess.run(["sh", "install"], cwd="~/IP-Tracer", check=True)
         print("\n\033[01;32mIP-Tracer updated successfully!\033[01;37m")
     except subprocess.CalledProcessError as e:
