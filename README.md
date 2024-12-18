@@ -15,7 +15,7 @@ IP-Tracer is a simple and powerful tool for tracing IP addresses. It provides ge
 
 ## Screenshot
 
-(Screenshot.png)
+![Features Screenshot](Screenshot.png)
 
 ---
 
