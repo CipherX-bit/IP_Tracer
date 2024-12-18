@@ -33,5 +33,5 @@ To use IP-Tracer, ensure you have the following installed:
    git clone https://github.com/YassineDouadi/IP_Tracer.git
    cd IP-Tracer
    pip install -r requirements.txt
-   python3 ip_tracer.py
+   python3 IP_Tracer.py
 
