@@ -13,6 +13,12 @@ IP-Tracer is a simple and powerful tool for tracing IP addresses. It provides ge
 
 ---
 
+## Screenshot
+
+(Screenshot.png)
+
+---
+
 ## Prerequisites
 To use IP-Tracer, ensure you have the following installed:
 - **Python 3.x**
