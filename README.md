@@ -30,7 +30,7 @@ To use IP-Tracer, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YassineDouadi/IP_Tracer.git
+   git clone https://github.com/CipherX-bit/IP_Tracer.git
    cd IP-Tracer
    pip install -r requirements.txt
    python3 IP_Tracer.py
